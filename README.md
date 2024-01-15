@@ -7,9 +7,9 @@
 
 
 ## GITHUB STATS
-![shubhamdevpro's Stats](https://github-readme-stats.vercel.app/api?username=shubhamdevpro&theme=outrun&show_icons=true&hide_border=true&count_private=true)
-
 ![shubhamdevpro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdevpro&theme=outrun&show_icons=true&hide_border=true&layout=compact)
+
+![shubhamdevpro's Stats](https://github-readme-stats.vercel.app/api?username=shubhamdevpro&theme=outrun&show_icons=true&hide_border=true&count_private=true)
 
 ![shubhamdevpro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdevpro&theme=outrun&hide_border=true)
 
