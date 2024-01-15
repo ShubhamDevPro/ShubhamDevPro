@@ -7,7 +7,9 @@
 
 
 ## GITHUB STATS
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubhamdevpro&theme=whatsapp-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![shubhamdevpro's Stats](https://github-readme-stats.vercel.app/api?username=shubhamdevpro&theme=outrun&show_icons=true&hide_border=true&count_private=true)
+![shubhamdevpro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdevpro&theme=outrun&hide_border=true)
+![shubhamdevpro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdevpro&theme=outrun&show_icons=true&hide_border=true&layout=compact)
 
 
 
