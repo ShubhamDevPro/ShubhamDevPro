@@ -21,8 +21,9 @@
 
 ![shubhamdevpro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdevpro&theme=outrun&hide_border=true)
 
+[![ShubhamDev's GitHub | Stats](https://stats.quine.sh/ShubhamDev/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShubhamDev)
 
-
+[![ShubhamDev's GitHub | Dependencies](https://stats.quine.sh/ShubhamDev/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShubhamDev)
 
 
 
