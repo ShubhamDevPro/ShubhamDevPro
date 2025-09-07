@@ -1,8 +1,8 @@
 ### 
 - 👋 Hi, I’m @ShubhamDevPro
-- 👀 I’m interested in Web Development & AI.
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Python Projects
+- 👀 I’m interested in Mobile App Development.
+- 🌱 I’m currently learning Kotlin.
+- 💞️ I’m looking to collaborate on Kotlin & Flutter.
 - 📫 How to reach me - shubham.01919011722@ipu.ac.in
 - 🧷 Connect with me on Linkedin - https://www.linkedin.com/in/-shubhamdev/
 
