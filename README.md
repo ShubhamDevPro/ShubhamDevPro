@@ -1,9 +1,14 @@
 ### 
 Languages: Python, Java, Kotlin, HTML, CSS, JavaScript, SQL
+
 Developer Tools: VS Code, Android Studio, Postman, Git, GitHub
+
 Frameworks/Libraries: Flutter, React , Node.js, Pandas, NumPy, Keras, TensorFlow
+
 Cloud & DevOps: Google Cloud Platform, Firebase, Docker, GitHub Actions
+
 Databases: MySQL, Firebase Realtime DB, SQLite, PostgreSQL 
+
 Operating Systems: Linux (Ubuntu), MacOS, Windows
 
 ### Connect with me
