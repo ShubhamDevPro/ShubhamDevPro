@@ -1,10 +1,10 @@
 ### 
-- 👋 Hi, I’m @ShubhamDevPro
-- 👀 I’m interested in Mobile App Development.
-- 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on Kotlin & Flutter.
-- 📫 How to reach me - shubham.01919011722@ipu.ac.in
-- 🧷 Connect with me on Linkedin - https://www.linkedin.com/in/-shubhamdev/
+Languages: Python, Java, Kotlin, HTML, CSS, JavaScript, SQL
+Developer Tools: VS Code, Android Studio, Postman, Git, GitHub
+Frameworks/Libraries: Flutter, React , Node.js, Pandas, NumPy, Keras, TensorFlow
+Cloud & DevOps: Google Cloud Platform, Firebase, Docker, GitHub Actions
+Databases: MySQL, Firebase Realtime DB, SQLite, PostgreSQL 
+Operating Systems: Linux (Ubuntu), MacOS, Windows
 
 ### Connect with me
 <p>
