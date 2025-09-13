@@ -1,31 +1,54 @@
-### 
-Languages: Python, Java, Kotlin, HTML, CSS, JavaScript, SQL
+# Hi there 👋, I'm Shubham Dev
 
-Developer Tools: VS Code, Android Studio, Postman, Git, GitHub
+Passionate developer exploring the intersection of **Software Development, Data Science, and Cloud Computing**.  
+I love building scalable apps, experimenting with AI/ML, and contributing to open-source projects.  
 
-Frameworks/Libraries: Flutter, React , Node.js, Pandas, NumPy, Keras, TensorFlow
+---
 
-Cloud & DevOps: Google Cloud Platform, Firebase, Docker, GitHub Actions
+## 🛠️ Tech Stack
 
-Databases: MySQL, Firebase Realtime DB, SQLite, PostgreSQL 
+**Languages:**  
+`Python` • `Java` • `Kotlin` • `HTML` • `CSS` • `JavaScript` • `SQL`
 
-Operating Systems: Linux (Ubuntu), MacOS, Windows
+**Frameworks & Libraries:**  
+`Flutter` • `React` • `Node.js` • `Pandas` • `NumPy` • `TensorFlow` • `Keras`
 
-### Connect with me
+**Databases:**  
+`MySQL` • `PostgreSQL` • `SQLite` • `Firebase Realtime DB`
+
+**Cloud & DevOps:**  
+`Google Cloud Platform (GCP)` • `Firebase` • `Docker` • `GitHub Actions`
+
+**Developer Tools:**  
+`VS Code` • `Android Studio` • `Postman` • `Git` • `GitHub`
+
+**Operating Systems:**  
+`Linux (Ubuntu)` • `MacOS` • `Windows`
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdevpro&theme=outrun&show_icons=true&hide_border=true&layout=compact)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdevpro&theme=outrun&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamdevpro&show_icons=true&theme=outrun&hide_border=true)
+
+---
+
+## 🌐 Connect with Me
+
 <p>
- <a href="http://twitter.com/shubhamdevpro" target="blank"><img align="center"          src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
- <a href="http://linkedin.com/in/-shubhamdev" target="blank"><img align="center"  src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
- <a href="http://instagram.com/shubhamdevpro" target="blank"><img align="center"  src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
+ <a href="http://twitter.com/shubhamdevpro" target="_blank">
+   <img src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" alt="Twitter" height="30"/>
+ </a>
+ <a href="http://linkedin.com/in/-shubhamdev" target="_blank">
+   <img src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="LinkedIn" height="30"/>
+ </a>
+ <a href="http://instagram.com/shubhamdevpro" target="_blank">
+   <img src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="Instagram" height="30"/>
+ </a>
 </p>
 
+---
 
-## GITHUB STATS
-![shubhamdevpro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdevpro&theme=outrun&show_icons=true&hide_border=true&layout=compact)
-
-<!-- ![shubhamdevpro's Stats](https://github-readme-stats.vercel.app/api?username=shubhamdevpro&theme=outrun&show_icons=true&hide_border=true&count_private=true)
-
-## ![shubhamdevpro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdevpro&theme=outrun&hide_border=true) -->
-
-
-
-
+⭐️ *Feel free to check out my repositories and drop a star if you like my work!* ⭐️  
