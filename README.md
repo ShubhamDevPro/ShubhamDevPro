@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shubham Dev
 
-Passionate developer exploring the intersection of **Software Development, Data Science, and Cloud Computing**.  
+I am exploring the intersection of **Software Development, Data Science, and Cloud Computing**.  
 I love building scalable apps, experimenting with AI/ML, and contributing to open-source projects.  
 
 ---
