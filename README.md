@@ -23,7 +23,7 @@ I love building scalable apps, experimenting with AI/ML, and contributing to ope
 `VS Code` • `Android Studio` • `Postman` • `Git` • `GitHub`
 
 **Operating Systems:**  
-`Linux (Ubuntu)` • `MacOS` • `Windows`
+`Unix` • `MacOS` • `Windows`
 
 ---
 
