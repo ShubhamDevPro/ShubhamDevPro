@@ -8,7 +8,7 @@ I love building scalable apps, experimenting with AI/ML, and contributing to ope
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Python` • `Java` • `Kotlin` • `HTML` • `CSS` • `JavaScript` • `SQL`
+`Python` • `Java` • `Dart` • `HTML` • `CSS` • `JavaScript` • `SQL`
 
 **Frameworks & Libraries:**  
 `Flutter` • `React` • `Node.js` • `Pandas` • `NumPy` • `TensorFlow` • `Keras`
@@ -24,14 +24,6 @@ I love building scalable apps, experimenting with AI/ML, and contributing to ope
 
 **Operating Systems:**  
 `Unix` • `MacOS` • `Windows`
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdevpro&theme=outrun&show_icons=true&hide_border=true&layout=compact)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdevpro&theme=outrun&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamdevpro&show_icons=true&theme=outrun&hide_border=true)
 
 ---
 
